@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-04-01T22:21:19 IST" name="Default suite" finished-at="2023-04-01T22:21:35 IST" duration-ms="16055">
+    <groups>
+    </groups>
+    <test started-at="2023-04-01T22:21:19 IST" name="Default test" finished-at="2023-04-01T22:21:35 IST" duration-ms="16055">
+      <class name="tests.test01">
+        <test-method signature="openSTM()[pri:0, instance:tests.test01@7b4c50bc]" started-at="2023-04-01T22:21:19 IST" name="openSTM" finished-at="2023-04-01T22:21:35 IST" duration-ms="15895" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openSTM -->
+      </class> <!-- tests.test01 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
